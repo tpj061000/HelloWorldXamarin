@@ -23,5 +23,7 @@ namespace HelloWorldXamarin.Droid
             LoadApplication(new App());
         }
     }
+
+    // test changes in master
 }
 
